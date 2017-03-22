@@ -1,0 +1,26 @@
+Initializing value in client_list to NULL...
+Opening socket...
+Initailizing internet address information...
+Binding address with a socket...
+Listening for connections...
+Creating commandHandler thread...
+Connection requested received...
+Receiving packet from client <เพียว>
+Set client name <Anonymous> to <เพียว>
+Connection requested received...
+Receiving packet from client <เพียวจริง>
+Set client name <Anonymous> to <เพียวจริง>
+Receiving packet from client <เพียว>
+Receiving packet from client <เพียวจริง>
+Receiving packet from client <เพียวจริง>
+Sending spacket to <เพียว>.
+Receiving packet from client <เพียว>
+Set client name <เพียวจริง> to <เพียว>
+Receiving packet from client <เพียว>
+Receiving packet from client <เพียว>
+Command -> kick <เmat>
+Error: Cannot recognize client name.
+Command -> kick <เพียว>
+Receiving packet from client <Receiving packet from client <เพียวเพียว>
+>
+Command -> kick <(null)>

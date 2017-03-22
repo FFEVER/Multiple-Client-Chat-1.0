@@ -1,0 +1,9 @@
+Command -> login
+Connected to server at 127.0.0.1
+Logged in as <เพียว>
+Command -> send "hello"
+Message receive from <เพียวจริง>
+Message receive from <เพียวจริง>
+Message receive from <เพียว>
+Command -> send "hi"
+Error: You has been kicked from server.

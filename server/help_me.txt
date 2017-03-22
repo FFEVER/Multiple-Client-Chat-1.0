@@ -1,0 +1,7 @@
+———————————————————————————————————————————
+“This is a server side admin commands manual.”
+help —-> Show admin commands manual.
+list —-> List all client that are currently connected.
+kick client_name —-> Kick client_name out of server.
+exit —-> Exit the program.
+———————————————————————————————————————————

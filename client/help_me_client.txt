@@ -1,0 +1,11 @@
+———————————————————————————————————————————
+“This is a server side admin commands manual.”
+help —-> Show user commands manual.
+status —-> Show user status.
+login name —-> Login to server with username <name>.
+logout —-> Logout from server.
+alias new_name ——> change username from <old_name> to <new_name>.
+send msg —-> Send msg to all user.
+whisp client_name msg —-> Send message to a specify client_name.
+exit —-> Exit the program.
+———————————————————————————————————————————
